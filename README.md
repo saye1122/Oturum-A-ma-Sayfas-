@@ -1,1 +1,2 @@
 # Oturum-A-ma-Sayfas-
+Bu oturum açma sayfası, kullanıcıların web uygulamamıza güvenli bir şekilde giriş yapmalarını sağlayan basit ve etkili bir arayüze sahiptir. Kullanıcılar, adlarını ve şifrelerini girerek kolayca oturum açabilirler. Oturum açma işlemi sırasında yapılan hatalar kullanıcıya açıkça bildirilir ve gerekli düzeltmeler yapılabilir. Şifre alanı, gizlilik için yıldızlarla maskelenmiştir.
